@@ -1,0 +1,71 @@
+
+{
+  "default": {
+    "judul": "Solusi Digital Terdepan",
+    "deskripsi": "AiLabs Indonesia adalah agensi digital terpercaya yang menyediakan layanan pembuatan website, aplikasi, produksi video kreatif, dan strategi pemasaran digital terintegrasi.",
+    "katakunci": "digital agency indonesia, jasa pembuatan website, video production, digital marketing, software house",
+    "gambar": "https://placehold.co/1200x630/4a8cdf/ffffff?text=AiLabs+Indonesia"
+  },
+  "rute": {
+    "HOME": {
+      "judul": "Beranda - Ekosistem Digital Terintegrasi",
+      "deskripsi": "Transformasi bisnis Anda dengan solusi digital end-to-end dari AiLabs. Ahli dalam pengembangan web, kreatif visual, dan pemasaran terukur.",
+      "katakunci": "ekosistem digital, transformasi bisnis, solusi IT terintegrasi",
+      "gambar": "https://placehold.co/1200x630/1e293b/ffffff?text=AiLabs+Home"
+    },
+    "PRODUCTS": {
+      "judul": "Layanan & Produk",
+      "deskripsi": "Jelajahi paket layanan kami: Pengembangan Website, Manajemen Iklan Digital, dan Produksi Video Kreatif. Harga transparan, hasil maksimal.",
+      "katakunci": "jasa seo, google ads, meta ads, jasa video company profile, pembuatan aplikasi",
+      "gambar": "https://placehold.co/1200x630/4a8cdf/ffffff?text=Layanan+Kami"
+    },
+    "PORTFOLIO": {
+      "judul": "Portofolio Karya",
+      "deskripsi": "Lihat hasil karya terbaik kami. Studi kasus nyata bagaimana kami membantu klien pemerintahan, korporat, dan UMKM bertumbuh.",
+      "katakunci": "portofolio website, contoh video profil, hasil iklan digital, case study",
+      "gambar": "https://placehold.co/1200x630/0f172a/ffffff?text=Portofolio+Karya"
+    },
+    "ABOUT": {
+      "judul": "Tentang Kami",
+      "deskripsi": "Mengenal lebih dekat tim di balik AiLabs Indonesia. Visi kami menggabungkan teknologi canggih dengan kreativitas manusia.",
+      "katakunci": "profil perusahaan ailabs, tim ailabs, visi misi digital agency",
+      "gambar": "https://placehold.co/1200x630/475569/ffffff?text=Tentang+Kami"
+    },
+    "CONTACT": {
+      "judul": "Hubungi Kami",
+      "deskripsi": "Siap memulai proyek? Hubungi tim AiLabs sekarang untuk konsultasi gratis. Tersedia via WhatsApp, Email, dan kunjungan kantor.",
+      "katakunci": "kontak developer website, alamat ailabs, konsultasi it gratis",
+      "gambar": "https://placehold.co/1200x630/4a8cdf/ffffff?text=Hubungi+Kami"
+    },
+    "SIMULATION": {
+      "judul": "Simulasi Biaya Proyek",
+      "deskripsi": "Kalkulator transparan untuk estimasi biaya proyek digital Anda. Pilih fitur, durasi, dan layanan sesuai budget.",
+      "katakunci": "harga pembuatan website, biaya jasa admin sosmed, harga video shooting",
+      "gambar": "https://placehold.co/1200x630/10b981/ffffff?text=Simulasi+Biaya"
+    },
+    "EVENTS": {
+      "judul": "Berita & Acara",
+      "deskripsi": "Informasi terbaru seputar teknologi, jadwal workshop, dan berita terkini dari AiLabs Indonesia.",
+      "katakunci": "berita teknologi, event it indonesia, workshop digital marketing",
+      "gambar": "https://placehold.co/1200x630/f59e0b/ffffff?text=News+Events"
+    },
+    "SERVICE_ECOSYSTEM": {
+      "judul": "Layanan Ekosistem Web & App",
+      "deskripsi": "Pengembangan sistem web dan aplikasi skala enterprise. Aman, cepat, dan terintegrasi.",
+      "katakunci": "web development enterprise, jasa pembuatan erp, sistem informasi manajemen",
+      "gambar": "https://placehold.co/1200x630/4338ca/ffffff?text=Web+Ecosystem"
+    },
+    "SERVICE_ADS": {
+      "judul": "Layanan Digital Marketing",
+      "deskripsi": "Tingkatkan ROI bisnis Anda dengan manajemen iklan Meta, Google, dan TikTok yang tertarget.",
+      "katakunci": "jasa iklan facebook, jasa google ads, digital marketing agency",
+      "gambar": "https://placehold.co/1200x630/9333ea/ffffff?text=Digital+Marketing"
+    },
+    "SERVICE_CINEMA": {
+      "judul": "Creative Visual Studio",
+      "deskripsi": "Produksi konten visual premium. Video sinematik dan fotografi profesional untuk branding yang kuat.",
+      "katakunci": "production house, jasa video shooting, fotografer produk",
+      "gambar": "https://placehold.co/1200x630/d97706/ffffff?text=Creative+Studio"
+    }
+  }
+}

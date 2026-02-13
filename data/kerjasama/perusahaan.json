@@ -1,0 +1,75 @@
+
+{
+  "judul": "Kebijakan Kerjasama Perusahaan (B2B)",
+  "terakhirDiperbarui": "21 Maret 2024",
+  "hero": {
+      "slogan": "CORPORATE PARTNERSHIP",
+      "subJudul": "Kerangka kerja hukum untuk kolaborasi strategis antara AiLabs Indonesia dan Entitas Bisnis."
+  },
+  "pendahuluan": "Dokumen ini menetapkan syarat dan ketentuan standar untuk kerjasama Business-to-Business (B2B). Syarat ini berlaku untuk Vendor, Klien Korporat, dan Mitra Strategis, kecuali dinyatakan lain dalam Perjanjian Kerjasama (PKS) spesifik yang ditandatangani kedua belah pihak.",
+  "bagian": [
+    {
+      "judul": "A. Ruang Lingkup Kerja Sama",
+      "konten": "Kerjasama mencakup namun tidak terbatas pada:",
+      "daftar": [
+        "<strong>Pengembangan Teknologi:</strong> Pembuatan perangkat lunak, integrasi API, dan infrastruktur cloud.",
+        "<strong>Layanan Kreatif:</strong> Produksi aset visual, branding korporat, dan kampanye pemasaran.",
+        "<strong>Outsourcing & Konsultasi:</strong> Penyediaan tenaga ahli IT dan konsultasi transformasi digital.",
+        "<strong>Wilayah & Target:</strong> Kerjasama berlaku di wilayah hukum Republik Indonesia dan dapat diperluas secara global sesuai kesepakatan."
+      ]
+    },
+    {
+      "judul": "B. Hak & Kewajiban",
+      "konten": "Pembagian tanggung jawab utama:",
+      "daftar": [
+        "<strong>Kewajiban AiLabs:</strong> Menyediakan layanan sesuai Service Level Agreement (SLA), menjaga kerahasiaan data perusahaan mitra, dan menyerahkan deliverables tepat waktu.",
+        "<strong>Kewajiban Mitra Perusahaan:</strong> Memberikan akses/data yang diperlukan untuk pelaksanaan proyek, melakukan pembayaran sesuai termin, dan mematuhi lisensi penggunaan aset.",
+        "<strong>Larangan:</strong> Mitra dilarang merekrut langsung (poaching) karyawan AiLabs selama masa kontrak dan 12 bulan setelahnya tanpa persetujuan tertulis."
+      ]
+    },
+    {
+      "judul": "C. Pembayaran & Pajak",
+      "konten": "Ketentuan finansial:",
+      "daftar": [
+        "<strong>Skema Pembayaran:</strong> Berdasarkan Invoice dengan termin pembayaran standar Net 30 hari setelah tanggal faktur, kecuali disepakati DP (Down Payment).",
+        "<strong>Pajak:</strong> Harga belum termasuk PPN 11%. Mitra wajib melakukan pemotongan PPh 23 (Jasa) dan menyerahkan bukti potong kepada AiLabs maksimal 30 hari setelah pembayaran.",
+        "<strong>Keterlambatan:</strong> Denda keterlambatan sebesar 1\u2030 (satu per mil) per hari dari nilai invoice yang tertunggak."
+      ]
+    },
+    {
+      "judul": "D. Data & Kerahasiaan (NDA)",
+      "konten": "Perlindungan aset informasi:",
+      "daftar": [
+        "<strong>Informasi Rahasia:</strong> Segala data teknis, finansial, strategi bisnis, dan data pelanggan dianggap rahasia.",
+        "<strong>Masa Berlaku NDA:</strong> Kewajiban kerahasiaan berlaku selama masa kerja sama dan bertahan selama 5 (lima) tahun setelah kontrak berakhir.",
+        "<strong>Keamanan Data:</strong> Kedua pihak wajib menerapkan standar keamanan siber yang memadai untuk mencegah kebocoran data."
+      ]
+    },
+    {
+      "judul": "E. Jangka Waktu & Pengakhiran",
+      "konten": "Mekanisme durasi kontrak:",
+      "daftar": [
+        "<strong>Durasi:</strong> Sesuai dengan yang tertera pada Statement of Work (SoW) atau Kontrak Utama.",
+        "<strong>Pengakhiran Dini:</strong> Dapat dilakukan dengan pemberitahuan tertulis 30 hari sebelumnya. Pihak yang mengakhiri wajib menyelesaikan kewajiban pembayaran atas pekerjaan yang telah berjalan.",
+        "<strong>Sanksi Pelanggaran:</strong> Pemutusan sepihak tanpa kompensasi jika terjadi pelanggaran material (wanprestasi) yang tidak diperbaiki dalam 14 hari."
+      ]
+    },
+    {
+      "judul": "F. Tanggung Jawab & Force Majeure",
+      "konten": "Batasan liabilitas:",
+      "daftar": [
+        "<strong>Batas Tanggung Jawab:</strong> Total liabilitas AiLabs terbatas pada nilai kontrak proyek yang bersangkutan.",
+        "<strong>Force Majeure:</strong> Tidak ada pihak yang bertanggung jawab atas kegagalan kinerja akibat bencana alam, huru-hara, kebijakan pemerintah, atau kegagalan infrastruktur internet global."
+      ]
+    },
+    {
+      "judul": "G. Penyelesaian Sengketa",
+      "konten": "Hukum yang berlaku adalah Hukum Republik Indonesia. Sengketa diselesaikan melalui:",
+      "daftar": [
+        "Musyawarah untuk mufakat (30 hari pertama).",
+        "Mediasi melalui pihak ketiga yang netral.",
+        "Jika gagal, akan diselesaikan melalui Pengadilan Negeri di domisili hukum AiLabs Indonesia."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+RUANG LINGKUP TEKNIS PEKERJAAN
+
+Berikut adalah spesifikasi teknis dari layanan "All-in" yang kami tawarkan untuk Universitas Kartamulia:
+
+A. WEBSITE FULL PACKAGE & CUSTOM PMB
+1. **Arsitektur Website:**
+   - Halaman Utama (Homepage) Modern & Responsif.
+   - Halaman Khusus Fakultas/Prodi (Hukum, Farmasi, Akuntansi, Manajemen, SI, TI, Olahraga).
+   - Halaman Profil Yayasan & Rektorat.
+   - Fitur Berita/Artikel Kampus (SEO Optimized).
+   - Integrasi Google Maps Lokasi Batu Datar.
+
+2. **Sistem PMB (Penerimaan Mahasiswa Baru):**
+   - Jalur Reguler & Beasiswa.
+   - Formulir Biodata Digital.
+   - Upload Dokumen (Ijazah/Rapor).
+   - Generate Virtual Account (Integrasi Payment Gateway - Opsional).
+   - Dashboard Admin Panitia (Export Data Excel/PDF).
+
+B. VIDEO PROFILE & FOTOGRAFI (CAMPUS BRANDING)
+1. **Video Profil Universitas (Main Video):**
+   - Durasi: 3-5 Menit.
+   - Konsep: "Membangun Masa Depan di Sukatani".
+   - Equipment: Cinema Line Camera + Drone 4K.
+   - Talent: Melibatkan mahasiswa asli sebagai model.
+
+2. **Video Iklan Pendek (Shorts/Reels):**
+   - 5 Video durasi 15-30 detik khusus untuk iklan Instagram/TikTok per Fakultas.
+
+3. **Fotografi:**
+   - 100+ Edited Photos (Gedung baru, Lab Komputer, Lab Farmasi, Sidang Semu Hukum, Lapangan Olahraga).
+
+C. DIGITAL MARKETING & CONTENT (MONTHLY RETAINER)
+1. **Social Media Maintenance:**
+   - 1 Video Reels/TikTok per minggu.
+   - 15 Desain Feed/Carousel per bulan.
+   - Daily Instagram Story.
+   - Copywriting edukatif & persuasif.
+
+2. **Paid Ads Management:**
+   - Setup Akun Iklan (Meta Business & Google Ads).
+   - Riset Audiens (Demografi: Lulusan SMA/SMK 17-20 tahun).
+   - Pelaporan Biaya per Lead (CPL) setiap bulan.
+   - Optimasi budget agar tepat sasaran.
+
+---
+
+DURASI PENGERJAAN AWAL (SETUP):
+- Website & Sistem PMB: 30 Hari Kerja.
+- Produksi Video & Foto: 7-14 Hari Kerja (Tergantung cuaca & jadwal talent).
+- Setup Iklan: 3 Hari setelah materi visual siap.

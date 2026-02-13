@@ -1,0 +1,385 @@
+{
+  "hero": {
+    "slogan": "Kalkulator Proyek",
+    "judulAwalan": "Simulasi",
+    "judulHighlight": "Biaya Sistem",
+    "deskripsi": "Hitung estimasi investasi digital Anda. Pilih modul, tentukan durasi berlangganan, dan dapatkan penawaran transparan secara instan."
+  },
+  "domain": {
+    "judul": "Cek Domain Institusi",
+    "deskripsi": "Langkah pertama identitas digital kampus Anda. Cek ketersediaan nama domain ac.id atau lainnya.",
+    "ekstensi": [
+      { "nama": ".ac.id", "harga": 150000, "populer": true },
+      { "nama": ".sch.id", "harga": 150000, "populer": false },
+      { "nama": ".id", "harga": 250000, "populer": false },
+      { "nama": ".com", "harga": 165000, "populer": true },
+      { "nama": ".org", "harga": 190000, "populer": false },
+      { "nama": ".net", "harga": 185000, "populer": false },
+      { "nama": ".edu", "harga": 650000, "populer": false },
+      { "nama": ".campus", "harga": 550000, "populer": false }
+    ]
+  },
+  "kategori": [
+    {
+      "id": "campus_sys",
+      "judul": "Sistem Informasi Kampus",
+      "ikon": "Building2",
+      "item": [
+        {
+          "id": "smart_campus_suite",
+          "nama": "Smart Campus Suite (All-in-One)",
+          "deskripsi": "Platform terintegrasi hulu-ke-hilir untuk manajemen perguruan tinggi. Pilih modul yang Anda butuhkan untuk membangun ekosistem digital kampus Anda sendiri.",
+          "gambar": [
+            "https://placehold.co/800x600/1e293b/ffffff?text=Smart+Campus+Integrator",
+            "https://placehold.co/800x600/334155/ffffff?text=Module+Selection"
+          ],
+          "fitur": [
+            "Single Sign On (SSO) System",
+            "Cloud Server Infrastructure",
+            "Daily Database Backup",
+            "Prioritas Support 24/7"
+          ],
+          "modules": [
+             { 
+               "id": "web_kampus", 
+               "nama": "Website Kampus (CMS)", 
+               "deskripsi": "Banner video, statistik realtime, profil, berita & agenda.", 
+               "harga": 179000,
+               "prices": { "1": 179000, "6": 149000, "12": 129000, "24": 99000 }
+             },
+             { 
+               "id": "pmb_crm", 
+               "nama": "PMB Online & CRM", 
+               "deskripsi": "Pendaftaran, ujian online, generate NIM, dashboard monitoring.", 
+               "harga": 299000,
+               "prices": { "1": 299000, "6": 249000, "12": 199000, "24": 149000 }
+             },
+             { 
+               "id": "portal_berita", 
+               "nama": "Portal Berita & Artikel", 
+               "deskripsi": "Manajemen artikel, kategori, komentar, SEO friendly.", 
+               "harga": 99000,
+               "prices": { "1": 99000, "6": 79000, "12": 59000, "24": 39000 }
+             },
+             { 
+               "id": "e_journal", 
+               "nama": "E-Journal (OJS Setup)", 
+               "deskripsi": "Setup OJS 3.x, role editor/reviewer, indexing metadata.", 
+               "harga": 179000,
+               "prices": { "1": 179000, "6": 149000, "12": 129000, "24": 99000 }
+             },
+             { 
+               "id": "siakad_core", 
+               "nama": "SIAKAD Core System", 
+               "deskripsi": "KRS/KHS, Transkrip, Feeder PDDikti, Manajemen Data.", 
+               "harga": 899000,
+               "prices": { "1": 899000, "6": 699000, "12": 599000, "24": 549000 }
+             },
+             { 
+               "id": "cbt_ujian", 
+               "nama": "Ujian Online (CBT)", 
+               "deskripsi": "Bank soal, acak soal/jawaban, anti-cheat, rekap nilai.", 
+               "harga": 199000,
+               "prices": { "1": 199000, "6": 160000, "12": 145000, "24": 130000 }
+             },
+             { 
+               "id": "lms", 
+               "nama": "E-Learning (LMS)", 
+               "deskripsi": "Materi digital, tugas, kuis, forum diskusi, monitoring.", 
+               "harga": 449000,
+               "prices": { "1": 449000, "6": 340000, "12": 310000, "24": 275000 }
+             },
+             { 
+               "id": "absensi_qr", 
+               "nama": "Absensi QR Code", 
+               "deskripsi": "QR dinamis, validasi GPS, rekap kehadiran otomatis.", 
+               "harga": 299000,
+               "prices": { "1": 299000, "6": 230000, "12": 210000, "24": 190000 }
+             },
+             { 
+               "id": "modul_mbkm", 
+               "nama": "Modul MBKM", 
+               "deskripsi": "Pendaftaran kegiatan, konversi SKS, logbook mahasiswa.", 
+               "harga": 199000,
+               "prices": { "1": 199000, "6": 160000, "12": 145000, "24": 130000 }
+             },
+             { 
+               "id": "keuangan_mhs", 
+               "nama": "Sistem Keuangan Mahasiswa", 
+               "deskripsi": "Tagihan, cicilan, beasiswa, laporan keuangan transparan.", 
+               "harga": 549000,
+               "prices": { "1": 549000, "6": 420000, "12": 380000, "24": 340000 }
+             },
+             { 
+               "id": "hris_pegawai", 
+               "nama": "Kepegawaian (HRIS)", 
+               "deskripsi": "Data dosen/tendik, honor SKS, arsip dokumen.", 
+               "harga": 299000,
+               "prices": { "1": 299000, "6": 230000, "12": 210000, "24": 190000 }
+             },
+             { 
+               "id": "tracer_study", 
+               "nama": "Tracer Study Alumni", 
+               "deskripsi": "Kuesioner alumni, lowongan kerja, laporan akreditasi.", 
+               "harga": 199000,
+               "prices": { "1": 199000, "6": 160000, "12": 145000, "24": 130000 }
+             },
+             { 
+               "id": "spmi_system", 
+               "nama": "Sistem SPMI", 
+               "deskripsi": "Dokumen mutu, audit internal, temuan & tindak lanjut.", 
+               "harga": 299000,
+               "prices": { "1": 299000, "6": 230000, "12": 210000, "24": 190000 }
+             },
+             { 
+               "id": "e_surat", 
+               "nama": "E-Surat (Persuratan)", 
+               "deskripsi": "Surat masuk/keluar, penomoran otomatis, disposisi.", 
+               "harga": 199000,
+               "prices": { "1": 199000, "6": 160000, "12": 145000, "24": 130000 }
+             },
+             { 
+               "id": "asset_inv", 
+               "nama": "Inventaris Aset", 
+               "deskripsi": "Data aset, QR labeling, jadwal ruangan, laporan kondisi.", 
+               "harga": 179000,
+               "prices": { "1": 179000, "6": 135000, "12": 120000, "24": 105000 }
+             },
+             { 
+               "id": "wa_gateway", 
+               "nama": "WA Gateway Notifikasi", 
+               "deskripsi": "Broadcast pesan, notifikasi tagihan & akademik otomatis.", 
+               "harga": 129000,
+               "prices": { "1": 129000, "6": 99000, "12": 89000, "24": 75000 }
+             }
+          ],
+          "opsiHarga": [
+            { "label": "Bulanan", "harga": 0, "tipe": "subscription", "durasi": 1 },
+            { "label": "Semester (6 Bulan)", "harga": 0, "tipe": "subscription", "durasi": 6 },
+            { "label": "Tahunan (Best Value)", "harga": 0, "tipe": "subscription", "durasi": 12, "nilaiTerbaik": true },
+            { "label": "Kontrak 2 Tahun", "harga": 0, "tipe": "subscription", "durasi": 24 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "digital_ads",
+      "judul": "Digital Advertising",
+      "ikon": "Megaphone",
+      "item": [
+        {
+          "id": "socmed_management",
+          "nama": "Sosial Media Management",
+          "deskripsi": "Layanan pengelolaan konten profesional. Tingkatkan engagement dan brand presence dengan konten visual berkualitas tinggi dan terjadwal.",
+          "gambar": [
+            "https://placehold.co/800x600/ec4899/ffffff?text=Content+Calendar",
+            "https://placehold.co/800x600/db2777/ffffff?text=Visual+Design"
+          ],
+          "fitur": [
+            "Content Planning & Scheduling",
+            "Professional Copywriting",
+            "Hashtag Strategy",
+            "Monthly Performance Report"
+          ],
+          "modules": [
+            {
+              "id": "extra_post",
+              "nama": "Extra Post Package",
+              "deskripsi": "20 Short Video, 15 Feed, 10 Carousel, 15 Video Story, 25 Design Story.",
+              "harga": 5250000,
+              "prices": { "1": 5250000, "3": 4750000, "6": 4250000, "12": 3850000 }
+            },
+            {
+              "id": "daily_post",
+              "nama": "Daily Posting Package",
+              "deskripsi": "15 Short Video, 10 Feed, 5 Carousel, 10 Video Story, 20 Design Story.",
+              "harga": 4000000,
+              "prices": { "1": 4000000, "3": 3750000, "6": 3500000, "12": 3250000 }
+            },
+            {
+              "id": "weekday_post",
+              "nama": "Weekday Post Package",
+              "deskripsi": "8 Short Video, 8 Feed, 4 Carousel, 8 Video Story, 12 Design Story.",
+              "harga": 2750000,
+              "prices": { "1": 2750000, "3": 2500000, "6": 2250000, "12": 2000000 }
+            }
+          ],
+          "opsiHarga": [
+            { "label": "Bulanan", "harga": 0, "tipe": "subscription", "durasi": 1 },
+            { "label": "Paket 3 Bulan", "harga": 0, "tipe": "subscription", "durasi": 3 },
+            { "label": "Paket 6 Bulan", "harga": 0, "tipe": "subscription", "durasi": 6 },
+            { "label": "Tahunan (Best Value)", "harga": 0, "tipe": "subscription", "durasi": 12, "nilaiTerbaik": true }
+          ]
+        },
+        {
+          "id": "ads_manager",
+          "nama": "Digital Ads Manager",
+          "deskripsi": "Kelola kampanye iklan digital Anda di berbagai platform populer. Pilih paket setup yang sesuai dengan target pasar dan anggaran pemasaran Anda.",
+          "gambar": [
+            "https://placehold.co/800x600/7c3aed/ffffff?text=Ads+Manager+Dashboard",
+            "https://placehold.co/800x600/5b21b6/ffffff?text=Multi+Platform+Campaign"
+          ],
+          "fitur": [
+            "Strategi Multi-Platform (Meta, TikTok, Google)",
+            "Optimasi Budget & ROAS",
+            "Laporan Analitik Komprehensif",
+            "A/B Testing Materi Iklan"
+          ],
+          "modules": [
+             { 
+               "id": "intensif_ads", 
+               "nama": "Intensif Ads Setup (A)", 
+               "deskripsi": "Google Ads, Meta Ads & TikTok Ads. Full optimization.", 
+               "harga": 950000,
+               "prices": { "1": 950000, "2": 800000, "4": 650000 }
+             },
+             { 
+               "id": "full_ads", 
+               "nama": "Full Package Setup (B)", 
+               "deskripsi": "Google Ads, Meta Ads & TikTok Ads. Standard optimization.", 
+               "harga": 650000,
+               "prices": { "1": 650000, "2": 550000, "4": 450000 }
+             },
+             { 
+               "id": "socmed_ads", 
+               "nama": "Sosial Media Setup", 
+               "deskripsi": "Meta Ads & TikTok Ads only.", 
+               "harga": 420000,
+               "prices": { "1": 420000, "2": 350000, "4": 280000 }
+             },
+             { 
+               "id": "meta_ads", 
+               "nama": "Meta Ads Setup", 
+               "deskripsi": "Facebook & Instagram Ads.", 
+               "harga": 320000,
+               "prices": { "1": 320000, "2": 270000, "4": 220000 }
+             },
+             { 
+               "id": "tiktok_ads", 
+               "nama": "TikTok Ads Setup", 
+               "deskripsi": "Video Ads di platform TikTok.", 
+               "harga": 190000,
+               "prices": { "1": 190000, "2": 160000, "4": 130000 }
+             },
+             { 
+               "id": "google_ads", 
+               "nama": "Google Ads Setup", 
+               "deskripsi": "Search (SEM) & Display Network.", 
+               "harga": 260000,
+               "prices": { "1": 260000, "2": 220000, "4": 180000 }
+             }
+          ],
+          "opsiHarga": [
+            { "label": "1x Setup Campaign", "harga": 0, "tipe": "subscription", "durasi": 1 },
+            { "label": "2x Setup Bundle", "harga": 0, "tipe": "subscription", "durasi": 2, "nilaiTerbaik": true },
+            { "label": "4x Setup Bundle", "harga": 0, "tipe": "subscription", "durasi": 4 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "creative_sv",
+      "judul": "Layanan Kreatif",
+      "ikon": "Video",
+      "item": [
+        {
+          "id": "video_profil_custom",
+          "nama": "Video Profil Company",
+          "deskripsi": "Rancang produksi video profesional Anda secara modular. Pilih alat, kru, dan layanan editing sesuai kebutuhan spesifik proyek.",
+          "gambar": ["https://placehold.co/800x600/b45309/ffffff?text=Professional+Video+Production"],
+          "fitur": [
+            "Techmeet 1, 2, & 3 (Included)",
+            "Shooting Day Execution (Included)",
+            "Editing & Pasca Produksi (Included)",
+            "Revisi Maksimal 2x (Included)",
+            "Publikasi File Final (Included)"
+          ],
+          "modules": [
+            { "id": "drone_indoor", "nama": "Drone Indoor", "deskripsi": "1 Baterai (±30 menit)", "harga": 500000 },
+            { "id": "drone_outdoor", "nama": "Drone Outdoor", "deskripsi": "1 Baterai (±30 menit)", "harga": 500000 },
+            { "id": "cam_fx30", "nama": "Sony FX30 Cinema Line", "deskripsi": "Body camera only", "harga": 500000 },
+            { "id": "cam_a6400", "nama": "Sony Alpha a6400", "deskripsi": "Body camera only", "harga": 250000 },
+            { "id": "lens_50mm", "nama": "Lensa Fix 50mm f/1.8", "deskripsi": "Portrait & cinematic look", "harga": 100000 },
+            { "id": "gimbal", "nama": "Stabilizer Gimbal FeiyuTech", "deskripsi": "Video stabil profesional", "harga": 150000 },
+            { "id": "lighting", "nama": "Indoor Lighting (2 Unit)", "deskripsi": "Pencahayaan studio", "harga": 150000 },
+            { "id": "clipon", "nama": "Clip On Wireless (4 Unit)", "deskripsi": "Audio recording jernih", "harga": 150000 },
+            { "id": "edit_full", "nama": "Editing Full Package", "deskripsi": "Editing, color grading, audio, musik, export", "harga": 800000 },
+            { "id": "script", "nama": "Script & Storyboard", "deskripsi": "Naskah, alur, visualisasi", "harga": 500000 },
+            { "id": "director", "nama": "Creative Director", "deskripsi": "Konsep & pengarahan", "harga": 500000 },
+            { "id": "pilot_drone", "nama": "Pilot Drone", "deskripsi": "Indoor & outdoor", "harga": 500000 },
+            { "id": "videographer", "nama": "Videografer", "deskripsi": "Kamera utama", "harga": 350000 },
+            { "id": "asst_director", "nama": "Assistant Creative Director", "deskripsi": "Support kreatif", "harga": 150000 },
+            { "id": "audioman", "nama": "Audio Man", "deskripsi": "Support audio", "harga": 100000 },
+            { "id": "logistik", "nama": "Assistant Logistik", "deskripsi": "Support perlengkapan", "harga": 100000 }
+          ],
+          "opsiHarga": [
+             { "label": "Per Project / Hari", "harga": 0, "tipe": "one_time", "durasi": 0 }
+          ]
+        },
+        {
+          "id": "jasa_foto",
+          "nama": "Jasa Fotografi & Dokumentasi",
+          "deskripsi": "Layanan dokumentasi profesional untuk kebutuhan personal, grup, maupun event berskala besar dengan peralatan lengkap.",
+          "gambar": ["https://placehold.co/800x600/0f172a/ffffff?text=Photography+Service"],
+          "harga": 150000,
+          "fitur": [
+            "Foto Pribadi: Formal & Pose",
+            "Foto Bersama: Classic, Sampurasun, Happy Mode",
+            "Foto Group: Struktural, Dosen, Staff",
+            "File High Resolution"
+          ],
+          "modules": [
+            { "id": "cam_canon", "nama": "Kamera Canon 700D", "deskripsi": "DSLR Quality High Res", "harga": 200000 },
+            { "id": "cam_fuji", "nama": "Fujifilm XA3", "deskripsi": "Mirrorless Natural & Candid", "harga": 250000 },
+            { "id": "lens_fix", "nama": "Lensa Fix", "deskripsi": "Hasil tajam & bokeh", "harga": 150000 },
+            { "id": "bg_studio", "nama": "Background Foto", "deskripsi": "Studio / Polos", "harga": 150000 },
+            { "id": "lighting_set", "nama": "Flash & Lighting Package", "deskripsi": "Pencahayaan profesional", "harga": 400000 },
+            { "id": "album_digital", "nama": "Album Digital (PDF)", "deskripsi": "File cetak + layout", "harga": 150000 },
+            { "id": "album_mini", "nama": "Album Mini (15x20cm)", "deskripsi": "Softcover, 10 Halaman", "harga": 180000 },
+            { "id": "album_std", "nama": "Album Standard (20x30cm)", "deskripsi": "Softcover, 10-12 Halaman", "harga": 225000 },
+            { "id": "album_hard", "nama": "Album Hardcover Basic", "deskripsi": "20x30cm, 10-12 Halaman", "harga": 350000 },
+            { "id": "add_page", "nama": "Tambah Halaman Album", "deskripsi": "Harga per halaman", "harga": 2500 },
+            { "id": "crowd_mini", "nama": "Rate: Crowd Mini (20-50 Org)", "deskripsi": "Harga per orang", "harga": 40000 },
+            { "id": "crowd_basic", "nama": "Rate: Crowd Basic (51-100 Org)", "deskripsi": "Harga per orang", "harga": 30000 },
+            { "id": "crowd_pro", "nama": "Rate: Crowd Pro (101-200 Org)", "deskripsi": "Harga per orang", "harga": 20000 },
+            { "id": "crowd_massive", "nama": "Rate: Crowd Massive (201-500 Org)", "deskripsi": "Harga per orang", "harga": 15000 }
+          ],
+          "opsiHarga": [
+             { "label": "Booking Project", "harga": 0, "tipe": "one_time", "durasi": 0 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "direct_ads",
+      "judul": "Direct Advertising",
+      "ikon": "Target",
+      "item": [
+        {
+          "id": "ooh_solutions",
+          "nama": "Direct Advertising & OOH",
+          "deskripsi": "Solusi periklanan luar ruang dan pemasaran langsung. Harga bersifat kustom (Custom Quote) sesuai spesifikasi lokasi dan kuantitas.",
+          "gambar": ["https://placehold.co/800x600/7f1d1d/ffffff?text=OOH+Advertising"],
+          "fitur": [
+            "Titik Lokasi Strategis",
+            "Pengurusan Pajak Reklame",
+            "Instalasi & Maintenance",
+            "Laporan Dokumentasi"
+          ],
+          "modules": [
+            { "id": "videotron", "nama": "Video Trone", "deskripsi": "Custom: Berdasarkan Jumlah x Durasi", "harga": 0 },
+            { "id": "billboard_swasta", "nama": "Billboard Swasta", "deskripsi": "Custom: Berdasarkan Jumlah x Ukuran", "harga": 0 },
+            { "id": "billboard_pemda", "nama": "Billboard Pemda", "deskripsi": "Custom: Berdasarkan Jumlah x Ukuran", "harga": 0 },
+            { "id": "billboard_umum", "nama": "Billboard Umum", "deskripsi": "Custom: Berdasarkan Jumlah x Ukuran", "harga": 0 },
+            { "id": "merchandise", "nama": "Pengadaan Merchandise", "deskripsi": "Custom: Berdasarkan Jumlah x Jenis", "harga": 0 },
+            { "id": "flyer", "nama": "Penyebaran Flyer", "deskripsi": "Custom: Titik Lokasi & Target", "harga": 0 },
+            { "id": "edu_marketing", "nama": "Education Marketing", "deskripsi": "Custom: Strategi & Target Market", "harga": 0 }
+          ],
+          "opsiHarga": [
+             { "label": "Custom Project", "harga": 0, "tipe": "one_time", "durasi": 0 }
+          ]
+        }
+      ]
+    }
+  ]
+}

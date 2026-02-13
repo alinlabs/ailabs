@@ -1,0 +1,82 @@
+
+{
+  "judul": "Syarat & Ketentuan",
+  "terakhirDiperbarui": "20 Maret 2024",
+  "hero": {
+      "slogan": "PERJANJIAN LAYANAN",
+      "subJudul": "Syarat penggunaan yang mengatur hubungan hukum antara Anda dan AiLabs Indonesia."
+  },
+  "pendahuluan": "Syarat dan Ketentuan ini (\"Syarat\", \"Perjanjian\") mengatur hubungan antara PT AiLabs Teknologi Indonesia (\"AiLabs\", \"kami\") dan Anda (\"Klien\", \"Pengguna\") sehubungan dengan penggunaan layanan pengembangan web, pemasaran digital, dan produksi kreatif kami.",
+  "bagian": [
+    {
+      "judul": "1. Definisi",
+      "konten": "Untuk tujuan Syarat dan Ketentuan ini:",
+      "daftar": [
+        "<strong>\"Layanan\"</strong> merujuk pada segala jasa yang disediakan oleh AiLabs termasuk namun tidak terbatas pada pengembangan website, aplikasi, desain grafis, produksi video, dan manajemen pemasaran digital.",
+        "<strong>\"Proyek\"</strong> merujuk pada pekerjaan spesifik yang disepakati dalam kontrak terpisah atau order form.",
+        "<strong>\"Deliverables\"</strong> merujuk pada hasil akhir pekerjaan yang diserahkan kepada Klien (kode, desain, video, laporan).",
+        "<strong>\"Materi Klien\"</strong> merujuk pada semua konten, data, gambar, dan informasi yang diberikan Klien kepada AiLabs untuk pelaksanaan Proyek."
+      ]
+    },
+    {
+      "judul": "2. Ketentuan Pembayaran",
+      "konten": "Kecuali disepakati lain secara tertulis dalam Proposal Penawaran atau Kontrak Kerja Sama:",
+      "daftar": [
+        "<strong>Deposit:</strong> Pembayaran uang muka (Down Payment) sebesar 40-50% wajib dibayarkan sebelum Proyek dimulai.",
+        "<strong>Termin:</strong> Pembayaran tahap kedua dan pelunasan akan mengikuti jadwal yang tertera pada invoice.",
+        "<strong>Keterlambatan:</strong> AiLabs berhak menangguhkan Layanan atau menahan Deliverables jika pembayaran tidak diterima sesuai jatuh tempo. Keterlambatan pembayaran lebih dari 30 hari dapat dikenakan denda keterlambatan sebesar 2% per bulan.",
+        "<strong>Pajak:</strong> Harga yang tertera belum termasuk PPN 11% kecuali dinyatakan inklusif."
+      ]
+    },
+    {
+      "judul": "3. Revisi dan Perubahan Lingkup Kerja",
+      "konten": "Setiap paket layanan memiliki batas revisi yang ditentukan (biasanya 2-3 putaran revisi mayor). Permintaan perubahan di luar lingkup kerja awal (Scope of Work) yang disepakati akan dianggap sebagai \"Change Request\" dan dapat dikenakan biaya tambahan berdasarkan tarif per jam atau biaya tetap yang disepakati.",
+      "daftar": [
+        "Revisi tidak termasuk perubahan total konsep setelah konsep awal disetujui.",
+        "Perubahan fitur fungsional pada tahap akhir pengembangan akan dihitung sebagai fitur baru."
+      ]
+    },
+    {
+      "judul": "4. Hak Kekayaan Intelektual",
+      "konten": "Pengaturan hak kekayaan intelektual adalah sebagai berikut:",
+      "daftar": [
+        "<strong>Milik Klien:</strong> Setelah pelunasan penuh, Klien memiliki hak cipta atas desain final, konten visual, dan kode sumber khusus (custom code) yang dibuat spesifik untuk Klien.",
+        "<strong>Milik AiLabs:</strong> AiLabs mempertahankan hak atas alat pengembangan, pustaka kode generik (pre-existing libraries), kerangka kerja (frameworks), dan metodologi yang digunakan untuk membuat Deliverables. AiLabs memberikan lisensi non-eksklusif, abadi, dan bebas royalti kepada Klien untuk menggunakan komponen tersebut sebagai bagian dari Deliverables.",
+        "<strong>Hak Portofolio:</strong> AiLabs berhak menampilkan hasil karya (dalam bentuk gambar, video, atau tautan) di situs web, media sosial, dan materi pemasaran kami sebagai bagian dari portofolio perusahaan, kecuali jika ada perjanjian kerahasiaan (NDA) yang melarangnya."
+      ]
+    },
+    {
+      "judul": "5. Tanggung Jawab Klien",
+      "konten": "Klien setuju untuk:",
+      "daftar": [
+        "Memberikan Materi Klien (teks, gambar, akses server) tepat waktu untuk mencegah keterlambatan proyek.",
+        "Memastikan bahwa Klien memiliki hak cipta atau izin yang diperlukan untuk semua Materi Klien yang diberikan kepada AiLabs.",
+        "Melakukan review dan memberikan umpan balik (feedback) dalam jangka waktu yang wajar (maksimal 5 hari kerja) setelah penyerahan draft."
+      ]
+    },
+    {
+      "judul": "6. Garansi dan Pemeliharaan",
+      "konten": "Untuk layanan pengembangan perangkat lunak:",
+      "daftar": [
+        "<strong>Garansi Bug-Free:</strong> Kami memberikan masa garansi 30 hari setelah peluncuran (Go-Live) untuk memperbaiki bug atau error yang disebabkan oleh kesalahan kode kami tanpa biaya tambahan.",
+        "<strong>Pengecualian:</strong> Garansi tidak mencakup masalah yang disebabkan oleh: (a) perubahan kode oleh pihak ketiga atau Klien, (b) kegagalan server hosting pihak ketiga, (c) perubahan API pihak ketiga (misal: API Google Maps berubah kebijakan), atau (d) force majeure.",
+        "<strong>Maintenance:</strong> Layanan pemeliharaan berkelanjutan memerlukan kontrak maintenance terpisah."
+      ]
+    },
+    {
+      "judul": "7. Batasan Tanggung Jawab",
+      "konten": "Dalam keadaan apa pun AiLabs tidak bertanggung jawab atas kerugian tidak langsung, insidental, khusus, atau konsekuensial (termasuk kehilangan keuntungan, pendapatan, atau data) yang timbul dari penggunaan Layanan. Total tanggung jawab AiLabs dalam klaim apa pun yang timbul dari Perjanjian ini tidak akan melebihi jumlah total yang dibayarkan oleh Klien kepada AiLabs untuk Proyek yang bersangkutan."
+    },
+    {
+      "judul": "8. Penghentian Layanan",
+      "konten": "Salah satu pihak dapat mengakhiri perjanjian ini dengan pemberitahuan tertulis jika pihak lain melanggar ketentuan material dan gagal memperbaikinya dalam waktu 14 hari. Jika Klien membatalkan proyek yang sedang berjalan, Klien wajib membayar untuk semua pekerjaan yang telah diselesaikan hingga tanggal pembatalan.",
+      "daftar": [
+        "Deposit (Uang Muka) tidak dapat dikembalikan (non-refundable) jika pembatalan dilakukan sepihak oleh Klien setelah proyek dimulai."
+      ]
+    },
+    {
+      "judul": "9. Hukum yang Berlaku",
+      "konten": "Syarat dan Ketentuan ini diatur oleh dan ditafsirkan sesuai dengan hukum Republik Indonesia. Setiap perselisihan yang timbul akan diselesaikan terlebih dahulu melalui musyawarah untuk mufakat. Jika tidak tercapai kesepakatan, perselisihan akan diselesaikan melalui arbitrase atau pengadilan yang berwenang di wilayah hukum kantor pusat AiLabs."
+    }
+  ]
+}

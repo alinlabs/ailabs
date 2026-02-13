@@ -1,0 +1,60 @@
+
+{
+  "judul": "Syarat Kerjasama Komunitas",
+  "terakhirDiperbarui": "21 Maret 2024",
+  "hero": {
+      "slogan": "COMMUNITY & EVENT",
+      "subJudul": "Panduan kolaborasi sponsorship, media partner, dan dukungan acara komunitas."
+  },
+  "pendahuluan": "AiLabs Indonesia mendukung pertumbuhan ekosistem digital melalui kolaborasi dengan komunitas, organisasi pendidikan, dan penyelenggara event. Dokumen ini mengatur tata cara sponsorship dan dukungan media partner.",
+  "bagian": [
+    {
+      "judul": "A. Ruang Lingkup Kerja Sama",
+      "konten": "Bentuk dukungan yang dapat diberikan:",
+      "daftar": [
+        "<strong>Sponsorship:</strong> Dukungan dana atau in-kind (merchandise, venue, tools) untuk event teknologi/kreatif.",
+        "<strong>Media Partner:</strong> Pertukaran publikasi logo dan materi promosi di kanal media sosial masing-masing.",
+        "<strong>Speaker/Mentor:</strong> Penyediaan tenaga ahli dari AiLabs untuk menjadi pembicara atau juri kompetisi."
+      ]
+    },
+    {
+      "judul": "B. Hak & Kewajiban",
+      "konten": "Komitmen kedua belah pihak:",
+      "daftar": [
+        "<strong>Kewajiban Komunitas:</strong> Menampilkan logo AiLabs sesuai brand guidelines, memberikan slot waktu bicara (jika disepakati), dan mengirimkan laporan pertanggungjawaban (LPJ) pasca-event.",
+        "<strong>Kewajiban AiLabs:</strong> Menyerahkan materi dukungan sesuai kesepakatan waktu dan mempromosikan event di kanal internal.",
+        "<strong>Larangan:</strong> Komunitas dilarang mengasosiasikan brand AiLabs dengan kegiatan politik praktis, SARA, atau kegiatan ilegal."
+      ]
+    },
+    {
+      "judul": "C. Benefit & Timbal Balik",
+      "konten": "Mekanisme value exchange:",
+      "daftar": [
+        "<strong>Skema Barter:</strong> Kerjasama umumnya berbasis non-tunai (value exchange) kecuali untuk sponsorship Platinum/Gold.",
+        "<strong>Jadwal:</strong> Proposal harus masuk minimal 30 hari sebelum hari-H acara.",
+        "<strong>Database Peserta:</strong> Jika disepakati, komunitas memberikan akses database peserta (dengan persetujuan peserta) untuk keperluan rekrutmen atau newsletter."
+      ]
+    },
+    {
+      "judul": "D. Hak Cipta & Dokumentasi",
+      "konten": "Penggunaan aset visual:",
+      "daftar": [
+        "AiLabs berhak menggunakan foto/video dokumentasi acara untuk keperluan publikasi perusahaan.",
+        "Komunitas wajib meminta persetujuan (approval) atas desain materi promosi yang memuat logo AiLabs sebelum dicetak/diposting."
+      ]
+    },
+    {
+      "judul": "E. Pembatalan Kerjasama",
+      "konten": "Jika event dibatalkan atau ditunda:",
+      "daftar": [
+        "Komunitas wajib memberitahu AiLabs minimal 7 hari sebelum jadwal.",
+        "Jika sponsorship berupa dana tunai telah cair dan event batal, dana wajib dikembalikan 100%.",
+        "AiLabs berhak menarik dukungan jika terjadi perubahan konsep acara yang bertentangan dengan nilai perusahaan."
+      ]
+    },
+    {
+      "judul": "F. Lain-lain",
+      "konten": "Hal-hal yang belum tercantum akan dibahas secara kasuistik dan dituangkan dalam Memorandum of Understanding (MoU) sederhana via email atau dokumen tertulis."
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+
+{
+  "hero": {
+      "slogan": "Solusi Kami",
+      "judul": "Rangkaian Layanan Terintegrasi",
+      "deskripsi": "Pilih paket yang sesuai dengan tahapan bisnis Anda. Dari inisiasi digital hingga dominasi pasar menyeluruh."
+  },
+  "paket": {
+    "ecosystem": {
+        "id": "ecosystem",
+        "nama": "All In One Ecosystem",
+        "slogan": "Most Complete",
+        "deskripsi": "Solusi total untuk transformasi bisnis maksimal.",
+        "deskripsiPanjang": "Paket Ultimate ini dirancang untuk perusahaan yang tidak ingin kompromi. Kami menangani seluruh aspek digital Anda, mulai dari pembangunan infrastruktur website enterprise grade, branding visual yang kuat, hingga eksekusi marketing yang agresif dan terukur.",
+        "gambar": "https://placehold.co/800x600/1e293b/fbbf24?text=Ecosystem+Dashboard",
+        "warnaAksen": "bg-amber-500",
+        "gelap": true,
+        "fitur": [
+            "Custom Website / Web App Complex",
+            "Full Branding Identity & Guidelines",
+            "Manajemen Iklan Meta/Google 3 Bulan",
+            "Video Profil Perusahaan Profesional",
+            "Prioritas Support 24/7 & Maintenance",
+            "Dedicated Project Manager",
+            "Cloud Server High Performance"
+        ],
+        "manfaat": [
+            "Efisiensi operasional dengan sistem terintegrasi",
+            "Konsistensi brand di semua channel",
+            "Percepatan penetrasi pasar",
+            "Keamanan data tingkat enterprise"
+        ],
+        "metrik": [
+            { "label": "Efisiensi Ops", "nilai": 85, "akhiran": "%" },
+            { "label": "Growth Rate", "nilai": 120, "akhiran": "%" },
+            { "label": "Uptime", "nilai": 99.9, "akhiran": "%" }
+        ],
+        "teknologi": [
+            { "nama": "React", "logo": "https://imgur.com/wpDEVAr.png" },
+            { "nama": "Node.js", "logo": "https://imgur.com/b1WdpZA.png" },
+            { "nama": "AWS", "logo": "https://imgur.com/GtoRUkb.png" },
+            { "nama": "Docker", "logo": "https://imgur.com/5FzVXwa.png" },
+            { "nama": "Redis", "logo": "https://imgur.com/At9pKKs.png" },
+            { "nama": "Figma", "logo": "https://imgur.com/DK7u4Iq.png" },
+            { "nama": "Meta Ads", "logo": "https://imgur.com/ZD8NqrQ.png" },
+            { "nama": "Google", "logo": "https://imgur.com/z44F6WE.png" }
+        ]
+    },
+    "digital": {
+        "id": "digital",
+        "nama": "Digital Transformation",
+        "slogan": "Business Growth",
+        "deskripsi": "Paket akselerasi bisnis fokus pada digitalisasi operasional.",
+        "deskripsiPanjang": "Modernisasi bisnis Anda dengan fondasi digital yang kokoh. Paket ini berfokus pada pengadaan sistem internal dan eksternal yang efisien untuk meningkatkan produktivitas dan skalabilitas bisnis.",
+        "gambar": "https://placehold.co/800x600/1e40af/ffffff?text=Digital+Transformation",
+        "warnaAksen": "bg-blue-600",
+        "fitur": [
+            "Sistem ERP Dasar",
+            "Integrasi Payment Gateway",
+            "SEO Technical Audit & Implementation",
+            "Automasi Email Marketing",
+            "Dashboard Analitik Bisnis",
+            "Setup Google Workspace",
+            "Training Penggunaan Sistem"
+        ],
+        "manfaat": [
+            "Otomatisasi proses bisnis manual",
+            "Pengambilan keputusan berbasis data real-time",
+            "Pengurangan human-error",
+            "Kemudahan skalabilitas infrastruktur"
+        ],
+        "metrik": [
+            { "label": "Productivity", "nilai": 60, "akhiran": "%" },
+            { "label": "Data Accuracy", "nilai": 98, "akhiran": "%" },
+            { "label": "Cost Save", "nilai": 30, "akhiran": "%" }
+        ],
+        "teknologi": [
+            { "nama": "Google Cloud", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" },
+            { "nama": "Zapier", "logo": "https://cdn.worldvectorlogo.com/logos/zapier.svg" },
+            { "nama": "HubSpot", "logo": "https://cdn.worldvectorlogo.com/logos/hubspot-1.svg" },
+            { "nama": "Slack", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" },
+            { "nama": "Trello", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" }
+        ]
+    },
+    "iklan": {
+        "id": "iklan",
+        "nama": "Growth Marketing Kit",
+        "slogan": "High ROI",
+        "deskripsi": "Fokus pada traffic dan konversi penjualan.",
+        "deskripsiPanjang": "Tingkatkan penjualan secara eksponensial dengan strategi iklan berbayar yang presisi. Kami menargetkan audiens yang tepat di waktu yang tepat dengan pesan yang tepat.",
+        "gambar": "/lottie/SosialMedia.lottie",
+        "warnaAksen": "bg-purple-600",
+        "fitur": [
+            "Meta Ads (FB/IG) Management",
+            "TikTok Ads Strategy",
+            "12 Feed + 8 Story Design/Bulan",
+            "Laporan Analitik Bulanan",
+            "Copywriting Persuasif",
+            "A/B Testing Campaign"
+        ],
+        "manfaat": [
+            "Peningkatan traffic website/toko",
+            "Lead generation berkualitas",
+            "Optimasi budget iklan (ROAS tinggi)",
+            "Brand awareness yang masif"
+        ],
+        "metrik": [
+            { "label": "Avg ROAS", "nilai": 5.5, "akhiran": "x" },
+            { "label": "CTR Incr", "nilai": 2.5, "akhiran": "%" },
+            { "label": "Reach", "nilai": 500, "akhiran": "K+" }
+        ],
+        "teknologi": [
+            { "nama": "Meta Ads", "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Meta_Platforms_Inc._logo.svg" },
+            { "nama": "TikTok", "logo": "https://cdn.icon-icons.com/icons2/2972/PNG/512/tiktok_logo_icon_186896.png" },
+            { "nama": "Google Ads", "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Ads_logo.svg" },
+            { "nama": "Canva", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" },
+            { "nama": "Semrush", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Semrush_logo.svg/2560px-Semrush_logo.svg.png" }
+        ]
+    },
+    "website": {
+        "id": "website",
+        "nama": "Website Development",
+        "slogan": "Best Seller",
+        "deskripsi": "Platform web canggih, aman, dan cepat.",
+        "deskripsiPanjang": "Wajah digital bisnis Anda adalah website. Kami membangun website yang tidak hanya indah secara visual, tetapi juga cepat, aman, dan dikonversi dengan baik untuk pengunjung.",
+        "gambar": "/lottie/Website.lottie",
+        "warnaAksen": "bg-slate-900",
+        "fitur": [
+            "Company Profile / E-Commerce Pro",
+            "CMS Admin Panel (User Friendly)",
+            "Optimasi SEO On-Page & Speed",
+            "Domain & Hosting 1 Tahun",
+            "Free SSL Certificate",
+            "Mobile Responsive Design"
+        ],
+        "manfaat": [
+            "Kredibilitas bisnis meningkat instan",
+            "Aksesibilitas 24 jam bagi pelanggan",
+            "Platform penjualan milik sendiri",
+            "Fondasi untuk marketing digital"
+        ],
+        "metrik": [
+            { "label": "Load Speed", "nilai": 95, "akhiran": "/100" },
+            { "label": "SEO Score", "nilai": 90, "akhiran": "/100" },
+            { "label": "Mobile Friendly", "nilai": 100, "akhiran": "%" }
+        ],
+        "teknologi": [
+            { "nama": "React", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+            { "nama": "Next.js", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" },
+            { "nama": "Tailwind", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" },
+            { "nama": "WordPress", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" },
+            { "nama": "Vercel", "logo": "https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" },
+            { "nama": "Figma", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" }
+        ]
+    },
+    "kreatif": {
+        "id": "kreatif",
+        "nama": "Creative Studio Pack",
+        "slogan": "Visual Impact",
+        "deskripsi": "Visual memukau untuk citra brand premium.",
+        "deskripsiPanjang": "Di dunia yang bising, visual adalah bahasa universal. Tim kreatif kami memproduksi aset visual (foto & video) standar bioskop untuk memisahkan brand Anda dari kompetitor.",
+        "gambar": "/lottie/VideoCreator.lottie",
+        "warnaAksen": "bg-amber-600",
+        "fitur": [
+            "Professional Photoshoot Product/Team",
+            "1 Video Cinematic Teaser (30s)",
+            "5 Template Desain Social Media",
+            "Editing & Color Grading Professional",
+            "Konsep & Storyboard",
+            "Talent & Location Scouting Support"
+        ],
+        "manfaat": [
+            "Diferensiasi visual yang kuat",
+            "Engagement rate sosial media tinggi",
+            "Materi iklan yang lebih menjual",
+            "Persepsi nilai brand (Perceived Value) naik"
+        ],
+        "metrik": [
+            { "label": "Engagement", "nilai": 200, "akhiran": "%" },
+            { "label": "Watch Time", "nilai": 45, "akhiran": "s" },
+            { "label": "Brand Recall", "nilai": 80, "akhiran": "%" }
+        ],
+        "teknologi": [
+            { "nama": "Premiere", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" },
+            { "nama": "After Effects", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" },
+            { "nama": "DaVinci", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" },
+            { "nama": "Blender", "logo": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" },
+            { "nama": "Sony", "logo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sony_logo.svg" },
+            { "nama": "Canon", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Canon_logo_vector.svg/1024px-Canon_logo_vector.svg.png" }
+        ]
+    }
+  },
+  "detail": {
+      "ecosystem": {
+          "slogan": "Ekosistem Web",
+          "judul": "Ecosystem Digital",
+          "subJudul": "Platform Digital Ujung-ke-Ujung",
+          "deskripsi": "Kami tidak hanya membuat website, kami membangun ekosistem digital yang hidup. Solusi komprehensif mulai dari portal publik yang responsif, dashboard administrator yang robust, hingga integrasi sistem yang kompleks untuk menunjang operasional bisnis Anda.",
+          "gambar": "https://placehold.co/600x450/4f46e5/ffffff?text=System+Architecture",
+          "urlLottie": "/lottie/Website.lottie",
+          "fitur": ["Full Stack Development", "Admin Dashboard Panel", "Custom Page Builder", "Integrasi CMS", "Arsitektur SaaS", "Sistem Keamanan Tinggi"],
+          "proses": [
+              { "langkah": "01", "judul": "Penemuan", "deskripsi": "Analisis kebutuhan bisnis dan arsitektur sistem." },
+              { "langkah": "02", "judul": "Desain", "deskripsi": "UI/UX prototyping dan pemodelan database." },
+              { "langkah": "03", "judul": "Pengembangan", "deskripsi": "Agile coding (Integrasi Frontend & Backend)." },
+              { "langkah": "04", "judul": "Peluncuran", "deskripsi": "Testing, setup server, dan deployment." }
+          ],
+          "teknologi": ["React / Next.js", "Node.js / Go", "PostgreSQL / Mongo", "Docker / K8s", "AWS / GCP", "Redis", "GraphQL", "TypeScript"]
+      },
+      "ads": {
+          "slogan": "Pemasaran Digital",
+          "judul": "Iklan & Media Sosial",
+          "subJudul": "Pertumbuhan Merek Strategis",
+          "deskripsi": "Tingkatkan visibilitas brand Anda dengan strategi pemasaran berbasis data. Kami mengelola kampanye iklan tertarget di Meta (Facebook/Instagram), TikTok, dan Google, serta manajemen konten media sosial yang menarik dan konversional.",
+          "gambar": "https://placehold.co/600x450/9333ea/ffffff?text=Social+Media+Growth",
+          "urlLottie": "/lottie/SosialMedia.lottie",
+          "fitur": ["Manajemen Media Sosial", "Iklan Meta (FB/IG)", "Strategi Iklan TikTok", "Perencanaan Konten", "Laporan Analitik", "Copywriting & Kreatif"],
+          "statistik": { "label": "Conversion", "nilai": "+350%" },
+          "metodologi": [
+              { "judul": "Ahli Iklan Meta", "deskripsi": "Penargetan audiens yang presisi di Facebook & Instagram untuk meningkatkan Brand Awareness dan Sales.", "ikon": "Globe", "warna": "blue" },
+              { "judul": "Strategi Viral TikTok", "deskripsi": "Memanfaatkan tren konten vertikal (FYP) untuk menjangkau audiens Gen-Z dan Milenial secara organik maupun berbayar.", "ikon": "Smartphone", "warna": "black" },
+              { "judul": "Ekosistem Google", "deskripsi": "SEM (Search Engine Marketing) dan Display Network untuk menangkap user yang sedang aktif mencari produk Anda.", "ikon": "BarChart3", "warna": "orange" }
+          ]
+      },
+      "creative": {
+          "slogan": "Agensi Kreatif",
+          "judul": "Creative Visual Studio",
+          "subJudul": "Keunggulan Bercerita Visual",
+          "deskripsi": "Kami menghidupkan cerita Anda melalui visual yang sinematik. Layanan produksi lengkap mulai dari pra-produksi, syuting dengan peralatan standar industri, hingga pasca-produksi (editing & color grading). Spesialis dalam dokumenter, profil perusahaan, dan iklan komersial.",
+          "gambar": "https://placehold.co/600x450/d97706/ffffff?text=Cinematic+Production",
+          "urlLottie": "/lottie/VideoCreator.lottie",
+          "fitur": ["Produksi Film 4K", "Pembuatan Dokumenter", "Video Profil Perusahaan", "Iklan Komersial & TVC", "Konten Media Berita", "Sinematografi Drone"],
+          "tahapan": [
+              { "judul": "Pra-Produksi", "deskripsi": "Konsep, naskah, storyboard, casting talent, dan survey lokasi.", "ikon": "Clapperboard" },
+              { "judul": "Produksi", "deskripsi": "Shooting dengan Kamera Sinema (Sony FX/RED), pengaturan pencahayaan, dan perekaman audio.", "ikon": "Camera" },
+              { "judul": "Pasca-Produksi", "deskripsi": "Editing Offline/Online, Color grading (Davinci Resolve), Desain Suara & Mixing.", "ikon": "MonitorPlay" }
+          ]
+      }
+  },
+  "sertifikasi": [
+      { "ikon": "Lock", "label": "Kode Aman" },
+      { "ikon": "Globe", "label": "Jangkauan Global" },
+      { "ikon": "Video", "label": "Produksi 4K" },
+      { "ikon": "Shield", "label": "Privasi Data" }
+  ]
+}

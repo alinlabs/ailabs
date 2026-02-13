@@ -1,0 +1,82 @@
+
+{
+  "hero": {
+      "slogan": "Cerita Kami",
+      "judulAwalan": "Mendefinisikan Ulang",
+      "judulHighlight": "Lanskap Digital",
+      "deskripsi": "AiLabs Indonesia hadir sebagai jembatan antara teknologi canggih, kreativitas visual, dan strategi pemasaran yang efektif."
+  },
+  "cerita": {
+      "sejak": "Sejak 2010",
+      "teksSejak": "Berawal dari pusat kreatif, berkembang menjadi kekuatan digital.",
+      "judul": "Perjalanan Kami",
+      "subJudul": "Sinergi Teknologi & Kreativitas",
+      "gambar": "https://placehold.co/1200x800/1e293b/ffffff?text=Perjalanan+AiLabs",
+      "konten": "AiLabs Indonesia menggabungkan kekuatan pengembangan ekosistem web yang solid dengan sentuhan artistik agensi kreatif. Kami tidak hanya membangun website, kami membangun pengalaman brand yang menyeluruh.",
+      "kutipan": "Teknologi tanpa seni adalah kaku, seni tanpa teknologi hanyalah mimpi. Kami menyatukan keduanya."
+  },
+  "visi": {
+      "judul": "Visi & Misi",
+      "konten": "Menciptakan ekosistem digital yang tidak hanya fungsional, tetapi juga menginspirasi. Kami berkomitmen untuk membantu bisnis di Indonesia bertransformasi melalui inovasi teknologi yang berkelanjutan dan desain yang berpusat pada manusia."
+  },
+  "pendiri": [
+      {
+          "id": "f1",
+          "nama": "Alvareza H. Pratama",
+          "peran": "Founder & CEO",
+          "gambar": "https://imgur.com/xgQGqbr.png",
+          "bio": "Memimpin visi strategis AiLabs dengan fokus pada inovasi teknologi dan ekspansi ekosistem digital."
+      },
+      {
+          "id": "f2",
+          "nama": "Mela Melati Aprilia",
+          "peran": "Co-Founder",
+          "gambar": "https://imgur.com/XtAkB99.png",
+          "bio": "Menggerakkan operasional dan budaya perusahaan untuk memastikan kreativitas dan efisiensi berjalan beriringan."
+      }
+  ],
+  "timStrategis": [
+      {
+          "id": "t1",
+          "nama": "Kenji Sato",
+          "peran": "Lead Architect",
+          "gambar": "https://placehold.co/400x400/334155/ffffff?text=Kenji",
+          "bio": "Arsitek sistem full-stack yang menjamin keamanan dan skalabilitas."
+      },
+      {
+          "id": "t2",
+          "nama": "Sarah Tan",
+          "peran": "Head of Creative",
+          "gambar": "https://placehold.co/400x400/475569/ffffff?text=Sarah",
+          "bio": "Memastikan setiap output visual memiliki standar estetika tertinggi."
+      },
+      {
+          "id": "t3",
+          "nama": "Budi Santoso",
+          "peran": "Digital Marketing Lead",
+          "gambar": "https://placehold.co/400x400/64748b/ffffff?text=Budi",
+          "bio": "Ahli strategi kampanye berbasis data untuk pertumbuhan klien."
+      },
+      {
+          "id": "t4",
+          "nama": "Linda Kusuma",
+          "peran": "UI/UX Designer",
+          "gambar": "https://placehold.co/400x400/94a3b8/ffffff?text=Linda",
+          "bio": "Menciptakan pengalaman pengguna yang intuitif dan menarik."
+      },
+      {
+          "id": "t5",
+          "nama": "Rian Ardianto",
+          "peran": "DevOps Engineer",
+          "gambar": "https://placehold.co/400x400/cbd5e1/334155?text=Rian",
+          "bio": "Menjaga infrastruktur server tetap optimal dengan uptime 99.9%."
+      },
+      {
+          "id": "t6",
+          "nama": "Jessica Lee",
+          "peran": "Content Strategist",
+          "gambar": "https://placehold.co/400x400/e2e8f0/334155?text=Jessica",
+          "bio": "Merancang narasi brand yang kuat untuk berbagai platform media."
+      }
+  ]
+}

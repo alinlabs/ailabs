@@ -1,0 +1,61 @@
+
+{
+    "hero": {
+        "slogan": "Pusat Informasi",
+        "judulAwalan": "Berita &",
+        "judulHighlight": "Acara",
+        "deskripsi": "Ikuti perkembangan terbaru, jadwal kegiatan, dan wawasan terkini dari AiLabs Indonesia."
+    },
+    "agenda": [
+        {
+            "id": "ev-1",
+            "judul": "KTT Transformasi Digital 2024",
+            "tanggal": "15 Okt 2024",
+            "lokasi": "Grand Ballroom, Jakarta",
+            "kategori": "Konferensi",
+            "gambar": "https://placehold.co/800x450/1e3a8a/ffffff?text=Digital+Summit",
+            "deskripsi": "Bergabunglah dengan para pemimpin industri untuk membahas masa depan ekosistem digital di Indonesia."
+        },
+        {
+            "id": "ev-2",
+            "judul": "Workshop Masterclass Web 3.0",
+            "tanggal": "22 Nov 2024",
+            "lokasi": "Kampus AiLabs",
+            "kategori": "Workshop",
+            "gambar": "https://placehold.co/800x450/4f46e5/ffffff?text=Web3+Masterclass",
+            "deskripsi": "Sesi coding langsung dan pelatihan arsitektur sistem untuk pengembang tingkat lanjut."
+        }
+    ],
+    "berita": [
+        {
+            "id": "news-1",
+            "judul": "AiLabs Memenangkan Penghargaan Inovasi Digital Terbaik",
+            "kategori": "Penghargaan",
+            "penulis": "Tim Editorial",
+            "tanggal": "10 Sep 2024",
+            "gambar": "https://placehold.co/800x450/f59e0b/ffffff?text=Award+Winner",
+            "ringkasan": "AiLabs Indonesia diakui atas kontribusi luar biasa dalam membangun ekosistem digital yang berkelanjutan bagi UMKM.",
+            "waktuBaca": "4 min baca"
+        },
+        {
+            "id": "news-2",
+            "judul": "Masa Depan Pembuatan Konten AI",
+            "kategori": "Teknologi",
+            "penulis": "Dr. Arya Wiguna",
+            "tanggal": "05 Sep 2024",
+            "gambar": "https://placehold.co/800x450/06b6d4/ffffff?text=AI+Content+Future",
+            "ringkasan": "Bagaimana kecerdasan buatan membentuk ulang cara kita memproduksi dan mengonsumsi konten video dan visual.",
+            "waktuBaca": "6 min baca"
+        },
+        {
+            "id": "news-3",
+            "judul": "Peluncuran AiLabs Academy Batch 5",
+            "kategori": "Edukasi",
+            "penulis": "Tim HR",
+            "tanggal": "01 Sep 2024",
+            "gambar": "https://placehold.co/800x450/10b981/ffffff?text=Academy+Batch+5",
+            "ringkasan": "Membuka pendaftaran baru untuk program bootcamp intensif pengembangan web dan sinematografi.",
+            "waktuBaca": "3 min baca"
+        }
+    ]
+}

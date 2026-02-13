@@ -1,0 +1,66 @@
+
+{
+  "judul": "Lisensi Penggunaan",
+  "terakhirDiperbarui": "20 Maret 2024",
+  "hero": {
+      "slogan": "HAK KEKAYAAN INTELEKTUAL",
+      "subJudul": "Panduan komprehensif mengenai hak cipta, lisensi perangkat lunak, dan penggunaan aset kreatif AiLabs."
+  },
+  "pendahuluan": "Halaman ini menjelaskan secara rinci ketentuan lisensi yang berlaku untuk berbagai produk dan layanan yang disediakan oleh AiLabs Indonesia. Memahami lisensi ini penting untuk mengetahui hak kepemilikan dan batasan penggunaan atas produk digital yang Anda terima.",
+  "bagian": [
+    {
+      "judul": "1. Lisensi Pengembangan Custom (Work for Hire)",
+      "konten": "Untuk layanan pengembangan perangkat lunak (Website, Web App, Mobile App) yang bersifat 'Custom Development':",
+      "daftar": [
+        "<strong>Transfer Hak Milik:</strong> Setelah pembayaran lunas sepenuhnya, AiLabs mengalihkan seluruh hak milik (ownership) atas kode sumber (source code) dan desain visual yang dikembangkan secara spesifik untuk Klien.",
+        "<strong>Kebebasan Penggunaan:</strong> Klien berhak untuk memodifikasi, menggandakan, menjual, atau melisensikan kembali produk akhir tersebut tanpa batasan dari AiLabs.",
+        "<strong>Pengecualian (Background IP):</strong> Hak milik ini tidak mencakup 'Background IP' AiLabs, yaitu pustaka kode, skrip utilitas, atau kerangka kerja internal yang telah ada sebelum proyek dimulai. Untuk komponen ini, Klien diberikan lisensi abadi, bebas royalti, non-eksklusif untuk menggunakannya sebagai bagian dari produk akhir."
+      ]
+    },
+    {
+      "judul": "2. Lisensi Produk SaaS & Langganan",
+      "konten": "Untuk penggunaan produk Software as a Service (SaaS), template, atau platform berbasis langganan milik AiLabs:",
+      "daftar": [
+        "<strong>Lisensi Terbatas:</strong> Klien diberikan lisensi terbatas, non-eksklusif, tidak dapat dipindahtangankan, dan dapat dibatalkan untuk mengakses dan menggunakan layanan selama masa berlangganan aktif.",
+        "<strong>Tidak Ada Transfer Kode:</strong> Klien tidak mendapatkan hak akses ke kode sumber (source code) backend, database structure, atau infrastruktur server.",
+        "<strong>Kepemilikan Data:</strong> Klien tetap memegang hak penuh atas data (data pelanggan, transaksi, konten) yang diunggah ke dalam sistem.",
+        "<strong>Larangan:</strong> Klien dilarang menyewakan kembali (white-labeling) atau mencoba merekayasa balik (reverse engineering) sistem tanpa izin tertulis khusus."
+      ]
+    },
+    {
+      "judul": "3. Lisensi Aset Kreatif (Desain & Video)",
+      "konten": "Untuk layanan produksi video, fotografi, branding, dan desain grafis:",
+      "daftar": [
+        "<strong>Hak Guna Komersial (Commercial Rights):</strong> Klien diberikan hak eksklusif untuk menggunakan, menayangkan, dan mendistribusikan aset final (Video Final, File JPG/PNG/PDF) untuk tujuan komersial di semua media yang disepakati (TV, Digital, Cetak).",
+        "<strong>File Mentah (Raw/Project Files):</strong> Kecuali dinyatakan lain dalam kontrak (Buyout Agreement), file mentah proyek (seperti file Project After Effects, Premiere Pro, PSD Layered, File RAW Kamera) tetap menjadi hak kekayaan intelektual AiLabs. Penyerahan file mentah dikenakan biaya tambahan (Buyout Fee).",
+        "<strong>Hak Moral:</strong> AiLabs berhak untuk dicantumkan sebagai pencipta karya (credit title) dalam situasi yang wajar, kecuali disepakati sebaliknya (Ghost Creation)."
+      ]
+    },
+    {
+      "judul": "4. Komponen Pihak Ketiga & Open Source",
+      "konten": "Produk kami mungkin mengintegrasikan komponen pihak ketiga:",
+      "daftar": [
+        "<strong>Software Open Source:</strong> Beberapa bagian dari perangkat lunak mungkin menggunakan pustaka Open Source (misalnya lisensi MIT, Apache, GPL). Penggunaan komponen ini tunduk pada syarat lisensi masing-masing penyedia.",
+        "<strong>Aset Berlisensi:</strong> Jika proyek menggunakan aset berbayar pihak ketiga (Stock Photo, Font Berbayar, Musik Berlisensi, Plugin Premium), lisensi aset tersebut melekat pada Klien. Klien bertanggung jawab mematuhi batasan lisensi pihak ketiga tersebut (misalnya: batas jumlah cetak atau views)."
+      ]
+    },
+    {
+      "judul": "5. Batasan Umum Penggunaan",
+      "konten": "Terlepas dari jenis lisensi, Pengguna dilarang keras untuk:",
+      "daftar": [
+        "Menggunakan produk/layanan AiLabs untuk kegiatan yang melanggar hukum, penipuan, perjudian ilegal, pornografi, atau ujaran kebencian.",
+        "Menghapus tanda hak cipta atau watermark pada versi draft/preview.",
+        "Menggunakan aset visual (seperti foto talent/model) di luar konteks yang disepakati yang dapat merusak reputasi talent."
+      ]
+    },
+    {
+      "judul": "6. Pengakhiran Lisensi",
+      "konten": "AiLabs berhak menghentikan lisensi penggunaan (terutama untuk SaaS dan produk berlangganan) secara sepihak jika:",
+      "daftar": [
+        "Klien gagal melakukan pembayaran biaya berlangganan.",
+        "Klien terbukti melanggar Syarat & Ketentuan penggunaan secara material.",
+        "Penggunaan layanan menyebabkan gangguan teknis fatal pada infrastruktur AiLabs."
+      ]
+    }
+  ]
+}

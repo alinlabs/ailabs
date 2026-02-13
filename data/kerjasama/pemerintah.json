@@ -1,0 +1,48 @@
+
+{
+  "judul": "Kerjasama Pemerintahan (G2B)",
+  "terakhirDiperbarui": "22 Maret 2024",
+  "hero": {
+      "slogan": "GOVERNMENT PARTNERSHIP",
+      "subJudul": "Kolaborasi strategis untuk digitalisasi sektor publik dan layanan masyarakat."
+  },
+  "pendahuluan": "AiLabs Indonesia berkomitmen mendukung transformasi digital pemerintahan (e-Government) melalui penyediaan solusi teknologi yang aman, transparan, dan akuntabel sesuai peraturan perundang-undangan yang berlaku.",
+  "bagian": [
+    {
+      "judul": "A. Ruang Lingkup Kerja Sama",
+      "konten": "Layanan khusus sektor publik:",
+      "daftar": [
+        "<strong>Sistem Informasi Manajemen:</strong> Pengembangan aplikasi SPBE (Sistem Pemerintahan Berbasis Elektronik).",
+        "<strong>Smart City Solutions:</strong> Integrasi IoT dan dashboard monitoring kota.",
+        "<strong>Public Service Portal:</strong> Website layanan masyarakat terpadu.",
+        "<strong>Digitalisasi Arsip:</strong> Manajemen dokumen digital yang aman."
+      ]
+    },
+    {
+      "judul": "B. Kepatuhan & Regulasi",
+      "konten": "Standar operasional:",
+      "daftar": [
+        "<strong>Keamanan Data:</strong> Mematuhi standar keamanan siber nasional (BSSN) dan UU Perlindungan Data Pribadi.",
+        "<strong>TKDN:</strong> Memprioritaskan penggunaan komponen dalam negeri sesuai aturan TKDN.",
+        "<strong>Pengadaan Barang/Jasa:</strong> Mengikuti prosedur LPSE dan E-Katalog pemerintahan."
+      ]
+    },
+    {
+      "judul": "C. Model Kerjasama",
+      "konten": "Mekanisme pelaksanaan:",
+      "daftar": [
+        "<strong>Kontrak Pengadaan Langsung:</strong> Untuk proyek di bawah nilai batas tertentu.",
+        "<strong>Tender/Lelang:</strong> Partisipasi dalam seleksi terbuka.",
+        "<strong>Kerjasama Pemerintah dengan Badan Usaha (KPBU):</strong> Untuk proyek infrastruktur digital skala besar."
+      ]
+    },
+    {
+      "judul": "D. Hak Kekayaan Intelektual & Data",
+      "konten": "Kepemilikan aset:",
+      "daftar": [
+        "<strong>Kepemilikan Negara:</strong> Kode sumber dan data yang dihasilkan dalam proyek pemerintahan adalah milik instansi terkait (State Property) kecuali disepakati lain.",
+        "<strong>Kerahasiaan Negara:</strong> Seluruh tim AiLabs terikat sumpah kerahasiaan terkait data strategis negara."
+      ]
+    }
+  ]
+}

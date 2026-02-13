@@ -1,0 +1,18 @@
+
+[
+    { "nama": "Google Cloud", "warna": "text-slate-600", "logo": "https://imgur.com/QpjeHpG.png" },
+    { "nama": "Kementerian BUMN", "warna": "text-blue-900", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Kementerian_BUMN_%28logo_only%29.png/150px-Kementerian_BUMN_%28logo_only%29.png" },
+    { "nama": "Meta Business", "warna": "text-blue-600", "logo": "https://imgur.com/ZD8NqrQ.png" },
+    { "nama": "Pertamina", "warna": "text-red-600", "logo": "https://imgur.com/ZE2Qq48.png" },
+    { "nama": "AWS Partner", "warna": "text-orange-500", "logo": "https://imgur.com/GtoRUkb.png" },
+    { "nama": "Telkom Indonesia", "warna": "text-red-500", "logo": "https://imgur.com/1mER0qF.png" },
+    { "nama": "Midtrans", "warna": "text-blue-800", "logo": "https://imgur.com/HTTyQIt.png" },
+    { "nama": "Bank Mandiri", "warna": "text-blue-700", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bank_Mandiri_logo_2016.svg/1200px-Bank_Mandiri_logo_2016.svg.png" },
+    { "nama": "OpenAI", "warna": "text-green-600", "logo": "https://imgur.com/pLx1Xdi.png" },
+    { "nama": "Vercel", "warna": "text-black", "logo": "https://imgur.com/RLK03pp.png" },
+    { "nama": "Stripe", "warna": "text-purple-600", "logo": "https://imgur.com/sW4CxEF.png" },
+    { "nama": "Bank BCA", "warna": "text-blue-600", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bank_Central_Asia.svg/1200px-Bank_Central_Asia.svg.png" },
+    { "nama": "Bank BRI", "warna": "text-blue-800", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Logo_Bank_Rakyat_Indonesia.svg/150px-Logo_Bank_Rakyat_Indonesia.svg.png" },
+    { "nama": "Bank BNI", "warna": "text-orange-600", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bank_Negara_Indonesia_logo_%282004%29_%28cropped%29.svg/langid-150px-Bank_Negara_Indonesia_logo_%282004%29_%28cropped%29.svg.png" },
+    { "nama": "Shopify", "warna": "text-green-500", "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopify_logo_2018.svg" }
+]

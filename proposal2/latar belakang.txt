@@ -1,0 +1,31 @@
+LATAR BELAKANG & STRATEGI KHUSUS
+
+Universitas Kartamulia memiliki potensi pertumbuhan eksponensial. Berdasarkan analisis tim riset kami, berikut adalah pemetaan situasi dan solusi digital yang kami tawarkan:
+
+1. TANTANGAN: SOSIALISASI LOKASI BARU & BRAND AWARENESS
+Masalah:
+Perpindahan ke Sukatani membutuhkan komunikasi publik yang gencar agar calon mahasiswa tidak bingung. Selain itu, sebagai satu-satunya Universitas di Purwakarta, *brand positioning* harus terlihat lebih "Megah" dibandingkan kampus sekolah tinggi lainnya.
+
+Solusi AiLabs:
+- **Visual Branding:** Video Profil dan Foto Udara (Drone) yang menonjolkan kemegahan/suasana kampus baru di Batu Datar untuk membangun kepercayaan fisik.
+- **Geo-Targeted Ads:** Iklan digital yang menargetkan radius spesifik di Purwakarta, Subang, dan Karawang dengan pesan "Kampus Baru, Semangat Baru".
+
+2. TANTANGAN: KERAGAMAN AUDIENS (MULTI-FAKULTAS)
+Masalah:
+Target audiens Prodi Farmasi sangat berbeda dengan Ilmu Hukum atau Informatika. Website dan Iklan yang bersifat "Satu Ukuran untuk Semua" seringkali tidak efektif.
+
+Solusi AiLabs:
+- **Website Full Custom:** Struktur website yang kami bangun akan memiliki *Landing Page* dedikasi untuk setiap Fakultas. Halaman Hukum akan bernuansa wibawa, Informatika bernuansa teknologi, dan Farmasi bernuansa klinis/bersih.
+- **Segmented Content:** Pengelolaan medsos akan dibagi menjadi pilar konten yang mewakili setiap prodi secara adil dan menarik.
+
+3. TANTANGAN: SISTEM PENERIMAAN MAHASISWA (PMB)
+Masalah:
+Generasi Z menuntut kemudahan pendaftaran via HP. Proses manual atau website yang lambat akan membuat mereka beralih ke kampus kompetitor.
+
+Solusi AiLabs:
+- **Portal PMB Mobile-First:** Sistem pendaftaran yang kami bangun memungkinkan calon mahasiswa mendaftar, upload berkas, dan membayar uang pendaftaran dalam waktu kurang dari 5 menit dari smartphone mereka.
+
+---
+
+VISI KAMI:
+Menjadikan aset digital Universitas Kartamulia (Website & Sosmed) sebagai representasi kualitas akademik yang telah terakreditasi, sehingga calon mahasiswa merasa bangga bahkan sebelum mereka mendaftar.

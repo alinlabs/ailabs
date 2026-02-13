@@ -1,0 +1,94 @@
+
+{
+  "judul": "Kebijakan Privasi",
+  "terakhirDiperbarui": "20 Maret 2024",
+  "hero": {
+      "slogan": "DATA PROTECTION",
+      "subJudul": "Komitmen transparansi AiLabs Indonesia dalam pengelolaan, perlindungan, dan kedaulatan data Anda."
+  },
+  "pendahuluan": "PT AiLabs Teknologi Indonesia (\"AiLabs\", \"kami\", atau \"kita\") menghormati privasi Anda dan berkomitmen untuk melindunginya melalui kepatuhan terhadap kebijakan ini. Kebijakan ini menjelaskan jenis informasi yang mungkin kami kumpulkan dari Anda atau yang Anda berikan saat Anda mengunjungi situs web kami atau menggunakan layanan kami, serta praktik kami untuk mengumpulkan, menggunakan, memelihara, melindungi, dan mengungkapkan informasi tersebut.",
+  "bagian": [
+    {
+      "judul": "1. Lingkup Kebijakan",
+      "konten": "Kebijakan ini berlaku untuk informasi yang kami kumpulkan:",
+      "daftar": [
+        "Di situs web ini (ailabs.id) dan subdomain terkait.",
+        "Melalui email, teks, dan pesan elektronik lainnya antara Anda dan situs web ini.",
+        "Melalui aplikasi seluler dan desktop yang Anda unduh dari situs web ini, yang menyediakan interaksi khusus non-browser antara Anda dan situs web ini.",
+        "Ketika Anda berinteraksi dengan iklan dan aplikasi kami di situs web dan layanan pihak ketiga, jika aplikasi atau iklan tersebut menyertakan tautan ke kebijakan ini."
+      ]
+    },
+    {
+      "judul": "2. Informasi yang Kami Kumpulkan",
+      "konten": "Kami mengumpulkan beberapa jenis informasi dari dan tentang pengguna layanan kami, termasuk informasi:",
+      "daftar": [
+        "<strong>Informasi Identitas Pribadi:</strong> Nama lengkap, alamat pos, alamat email, nomor telepon, atau pengenal lainnya yang dapat digunakan untuk menghubungi Anda secara online atau offline.",
+        "<strong>Informasi Bisnis:</strong> Nama perusahaan, jabatan, industri, ukuran perusahaan, dan kebutuhan proyek spesifik.",
+        "<strong>Informasi Teknis:</strong> Alamat IP, jenis browser, penyedia layanan internet (ISP), halaman perujuk/keluar, sistem operasi, stempel tanggal/waktu, dan data clickstream.",
+        "<strong>Informasi Keuangan:</strong> Detail pemrosesan pembayaran (melalui gateway pihak ketiga yang aman; kami tidak menyimpan detail kartu kredit lengkap di server kami)."
+      ]
+    },
+    {
+      "judul": "3. Metode Pengumpulan Data",
+      "konten": "Kami mengumpulkan informasi ini melalui:",
+      "daftar": [
+        "<strong>Interaksi Langsung:</strong> Formulir yang Anda isi di situs web kami, korespondensi email, atau konsultasi telepon.",
+        "<strong>Teknologi Pengumpulan Data Otomatis:</strong> Saat Anda menavigasi situs kami, kami dapat menggunakan cookie, web beacon, dan teknologi pelacakan lainnya untuk mengumpulkan detail tentang peralatan Anda, tindakan penjelajahan, dan pola.",
+        "<strong>Pihak Ketiga:</strong> Mitra bisnis, sub-kontraktor layanan teknis, pembayaran, dan pengiriman, jaringan periklanan, penyedia analitik, dan penyedia informasi pencarian."
+      ]
+    },
+    {
+      "judul": "4. Penggunaan Informasi",
+      "konten": "Kami menggunakan informasi yang kami kumpulkan tentang Anda atau yang Anda berikan kepada kami untuk:",
+      "daftar": [
+        "Menyajikan situs web kami dan isinya kepada Anda.",
+        "Memberikan informasi, produk, atau layanan yang Anda minta dari kami.",
+        "Memenuhi kewajiban kami dan menegakkan hak kami yang timbul dari kontrak apa pun yang dibuat antara Anda dan kami, termasuk untuk penagihan dan penagihan.",
+        "Memberi tahu Anda tentang perubahan pada situs web kami atau produk atau layanan apa pun yang kami tawarkan atau sediakan melaluinya.",
+        "Memungkinkan Anda berpartisipasi dalam fitur interaktif di situs web kami.",
+        "Untuk tujuan lain apa pun dengan persetujuan Anda.",
+        "Meningkatkan layanan kami melalui analisis data dan pengembangan produk."
+      ]
+    },
+    {
+      "judul": "5. Pengungkapan Informasi Anda",
+      "konten": "Kami dapat mengungkapkan informasi pribadi yang kami kumpulkan atau yang Anda berikan sebagaimana dijelaskan dalam kebijakan privasi ini:",
+      "daftar": [
+        "Kepada anak perusahaan dan afiliasi kami.",
+        "Kepada kontraktor, penyedia layanan, dan pihak ketiga lainnya yang kami gunakan untuk mendukung bisnis kami (misalnya: penyedia hosting cloud, pemroses pembayaran).",
+        "Kepada pembeli atau penerus lainnya jika terjadi merger, divestasi, restrukturisasi, reorganisasi, pembubaran, atau penjualan atau pengalihan lain atas sebagian atau seluruh aset AiLabs.",
+        "Untuk mematuhi perintah pengadilan, hukum, atau proses hukum apa pun, termasuk menanggapi permintaan pemerintah atau peraturan.",
+        "Jika kami yakin pengungkapan diperlukan atau sesuai untuk melindungi hak, properti, atau keselamatan AiLabs, pelanggan kami, atau orang lain."
+      ]
+    },
+    {
+      "judul": "6. Keamanan Data",
+      "konten": "Kami telah menerapkan langkah-langkah yang dirancang untuk mengamankan informasi pribadi Anda dari kehilangan yang tidak disengaja dan dari akses, penggunaan, perubahan, dan pengungkapan yang tidak sah. Semua informasi yang Anda berikan kepada kami disimpan di server aman kami di balik firewall. Setiap transaksi pembayaran akan dienkripsi menggunakan teknologi SSL/TLS."
+    },
+    {
+      "judul": "7. Retensi Data",
+      "konten": "Kami hanya akan menyimpan data pribadi Anda selama diperlukan untuk memenuhi tujuan pengumpulannya, termasuk untuk tujuan memenuhi persyaratan hukum, akuntansi, atau pelaporan apa pun. Untuk menentukan periode penyimpanan yang tepat, kami mempertimbangkan jumlah, sifat, dan sensitivitas data pribadi, potensi risiko bahaya dari penggunaan atau pengungkapan yang tidak sah, dan ketentuan hukum yang berlaku."
+    },
+    {
+      "judul": "8. Hak Privasi Anda",
+      "konten": "Berdasarkan peraturan perundang-undangan yang berlaku (termasuk UU Perlindungan Data Pribadi di Indonesia), Anda memiliki hak untuk:",
+      "daftar": [
+        "Meminta akses ke data pribadi Anda.",
+        "Meminta koreksi data pribadi yang kami miliki tentang Anda.",
+        "Meminta penghapusan data pribadi Anda.",
+        "Menolak pemrosesan data pribadi Anda.",
+        "Meminta pembatasan pemrosesan data pribadi Anda.",
+        "Meminta transfer data pribadi Anda (portabilitas data)."
+      ]
+    },
+    {
+      "judul": "9. Informasi Kontak",
+      "konten": "Untuk mengajukan pertanyaan atau komentar tentang kebijakan privasi ini dan praktik privasi kami, silakan hubungi kami di:",
+      "daftar": [
+        "<strong>Email:</strong> office.alinlabs@gmail.com",
+        "<strong>Telepon:</strong> 0818-070000-54",
+        "<strong>Alamat:</strong> Jln. Cendrawasih, Nagri Kidul, Kec. Purwakarta, Jawa Barat 41111, Indonesia"
+      ]
+    }
+  ]
+}

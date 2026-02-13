@@ -1,0 +1,60 @@
+
+{
+  "judul": "Syarat Kerjasama Individu",
+  "terakhirDiperbarui": "21 Maret 2024",
+  "hero": {
+      "slogan": "FREELANCE & KOL",
+      "subJudul": "Ketentuan bagi Freelancer, Tenaga Ahli Lepas, Influencer, dan Affiliate Marketer."
+  },
+  "pendahuluan": "Dokumen ini mengatur hubungan kerja sama antara AiLabs Indonesia dengan individu independen (bukan karyawan tetap). Syarat ini memastikan perlindungan hak cipta, pembayaran yang adil, dan profesionalisme kerja.",
+  "bagian": [
+    {
+      "judul": "A. Ruang Lingkup Kerja Sama",
+      "konten": "Berlaku untuk peran:",
+      "daftar": [
+        "<strong>Freelancer Teknis/Kreatif:</strong> Developer, Desainer, Videografer lepas.",
+        "<strong>Key Opinion Leader (KOL):</strong> Influencer yang mempromosikan layanan AiLabs.",
+        "<strong>Affiliate Marketer:</strong> Individu yang mereferensikan klien dan mendapatkan komisi.",
+        "<strong>Target:</strong> Penyelesaian tugas spesifik (Project Based) sesuai Briefing."
+      ]
+    },
+    {
+      "judul": "B. Hak & Kewajiban",
+      "konten": "Ekspektasi kinerja:",
+      "daftar": [
+        "<strong>Kewajiban Individu:</strong> Menyelesaikan pekerjaan sesuai standar kualitas dan tenggat waktu (deadline). Menjaga nama baik AiLabs saat bertugas.",
+        "<strong>Kewajiban AiLabs:</strong> Memberikan briefing yang jelas, akses ke tools yang diperlukan, dan pembayaran tepat waktu.",
+        "<strong>Revisi:</strong> Individu bersedia melakukan revisi minor maksimal 2x tanpa biaya tambahan, kecuali disepakati lain."
+      ]
+    },
+    {
+      "judul": "C. Pembayaran & Bagi Hasil",
+      "konten": "Ketentuan kompensasi:",
+      "daftar": [
+        "<strong>Freelance:</strong> Pembayaran dilakukan setelah pekerjaan selesai dan diterima (QC Passed).",
+        "<strong>Affiliate/Komisi:</strong> Komisi cair 14 hari setelah klien yang direferensikan melakukan pelunasan.",
+        "<strong>Pajak:</strong> AiLabs akan memotong PPh 21 (Tenaga Ahli) sesuai peraturan perpajakan yang berlaku. Bukti potong akan dikirimkan via email."
+      ]
+    },
+    {
+      "judul": "D. Kepemilikan Intelektual (IP)",
+      "konten": "PENTING: Status hasil karya:",
+      "daftar": [
+        "<strong>Work for Hire:</strong> Segala kode, desain, atau aset yang dibuat oleh Freelancer atas pesanan AiLabs adalah milik penuh AiLabs Indonesia.",
+        "<strong>Portofolio:</strong> Freelancer boleh menampilkan karya dalam portofolio pribadi hanya setelah proyek dirilis ke publik oleh AiLabs/Klien, kecuali ada NDA ketat.",
+        "<strong>Bahan Baku:</strong> Freelancer menjamin tidak menggunakan aset bajakan atau melanggar hak cipta pihak ketiga."
+      ]
+    },
+    {
+      "judul": "E. Kerahasiaan (Non-Disclosure)",
+      "konten": "Freelancer dilarang membocorkan data login, data klien, atau strategi internal AiLabs kepada pihak manapun. Pelanggaran klausul ini dapat berujung pada tuntutan hukum pidana dan perdata.",
+      "daftar": [
+        "Dilarang menghubungi klien AiLabs secara langsung untuk menawarkan jasa pribadi (Bypass) selama kontrak dan 2 tahun setelahnya."
+      ]
+    },
+    {
+      "judul": "F. Penyelesaian Sengketa",
+      "konten": "Segala perselisihan terkait kualitas pekerjaan atau pembayaran akan diselesaikan secara kekeluargaan. Jika tidak ada titik temu, AiLabs berhak menahan pembayaran sisa hingga pekerjaan diselesaikan sesuai standar yang disepakati."
+    }
+  ]
+}
